@@ -1,0 +1,14 @@
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.exe
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.deps.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.runtimeconfig.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\bin\Debug\net6.0\SwitchDayOfTheWeek.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.AssemblyInfo.cs
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\obj\Debug\net6.0\refint\SwitchDayOfTheWeek.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\obj\Debug\net6.0\SwitchDayOfTheWeek.genruntimeconfig.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\SwitchDayOfTheWeek\obj\Debug\net6.0\ref\SwitchDayOfTheWeek.dll

@@ -1,0 +1,14 @@
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.exe
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.deps.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.runtimeconfig.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.AssemblyInfoInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.AssemblyInfo.cs
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\refint\Week3IfAndSwitch.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.genruntimeconfig.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\ref\Week3IfAndSwitch.dll

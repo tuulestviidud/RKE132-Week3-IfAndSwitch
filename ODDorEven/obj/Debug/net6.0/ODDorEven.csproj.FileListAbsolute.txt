@@ -1,0 +1,14 @@
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\bin\Debug\net6.0\ODDorEven.exe
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\bin\Debug\net6.0\ODDorEven.deps.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\bin\Debug\net6.0\ODDorEven.runtimeconfig.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\bin\Debug\net6.0\ODDorEven.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\bin\Debug\net6.0\ODDorEven.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\obj\Debug\net6.0\ODDorEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\obj\Debug\net6.0\ODDorEven.AssemblyInfoInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\obj\Debug\net6.0\ODDorEven.AssemblyInfo.cs
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\obj\Debug\net6.0\ODDorEven.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\obj\Debug\net6.0\ODDorEven.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\obj\Debug\net6.0\refint\ODDorEven.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\obj\Debug\net6.0\ODDorEven.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\obj\Debug\net6.0\ODDorEven.genruntimeconfig.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week3IfAndSwitch\ODDorEven\obj\Debug\net6.0\ref\ODDorEven.dll
